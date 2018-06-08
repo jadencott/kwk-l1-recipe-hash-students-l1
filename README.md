@@ -1,3 +1,5 @@
+
+
 ## Baking with Klossy - Hashes Lab
 <img src="https://s3.amazonaws.com/upperline/curriculum-assets/Karlie%2BChristina/Karlie%2BChristina-Kookies00005.png" align="right" width="200px" hspace="10" style="border-radius: 100px; border-style: solid; border-width: 4px"> 
 
